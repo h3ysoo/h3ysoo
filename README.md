@@ -50,7 +50,6 @@ Computer Engineer (Dataingeniør) from Oslo Metropolitan University. I enjoy bui
 ## 📊 GitHub Stats
 
 ![Josef's GitHub stats](https://github-readme-stats.vercel.app/api?username=h3ysoo&show_icons=true&theme=github_dark&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=h3ysoo&theme=github-dark-blue&hide_border=true)
 
 ---
 
@@ -67,7 +66,7 @@ Computer Engineer (Dataingeniør) from Oslo Metropolitan University. I enjoy bui
 
 ## 📫 Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/DIN-LINKEDIN-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/josef-selen)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josef.selen@hotmail.com)
 
 📍 Sandvika, Norway · Fluent in Norwegian, English and Turkish
