@@ -49,7 +49,7 @@ Computer Engineer (Dataingeniør) from Oslo Metropolitan University. I enjoy bui
 
 ## 📊 GitHub Stats
 
-![Josef's GitHub stats](https://github-readme-stats.vercel.app/api?username=h3ysoo&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=h3ysoo&theme=github-dark-blue&hide_border=true)
 
 ---
 
